@@ -1,3 +1,1 @@
-# Kampus-BSI.sql
-# Kampus-BSI.sql
-# Kampus-BSI.sql
+# TugasStrukturdtpert2
